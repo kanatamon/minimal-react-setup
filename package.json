@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "react-hot-loader": "^3.1.1",
     "webpack": "^3.8.1",
     "webpack-dev-server": "^2.9.4"
   }
